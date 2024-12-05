@@ -1,0 +1,5 @@
+django-admin startproject companyapi
+
+python manage.py runserver
+
+python manage.py startapp api
