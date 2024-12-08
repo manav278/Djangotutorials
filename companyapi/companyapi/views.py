@@ -1,6 +1,5 @@
 from django.http import HttpResponse,JsonResponse
 
-
 def general_page(request):
     dictionary={
         'name':'Manav',
